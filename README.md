@@ -1,16 +1,23 @@
 # VDIAS
 
-Infrastructure architect focused on Azure, Linux, automation and networking.
+Infrastructure Architect
+Designing, automating and operating cloud and systems infrastructure.
 
-## Areas
+## Focus
 
-- Azure architecture & infrastructure
-- Linux systems
-- PowerShell / Bash automation
-- Networking & security
-- OCI
-- Self-hosted infrastructure
+- Microsoft Azure architecture and platform engineering
+- Linux infrastructure
+- PowerShell and Bash automation
+- Networking, DNS and security
+- Identity and access management
+- OCI and self-hosted infrastructure
 
-## Tech
+## Principles
 
-`Azure` `Linux` `PowerShell` `Bash` `Docker` `GitHub Actions` `OCI`
+- Automation over repetitive operations
+- Simple and maintainable infrastructure
+- Least privilege by default
+- Observable systems
+- Reproducible deployments
+- Security integrated into the design
+- Prefer supported and documented solutions
