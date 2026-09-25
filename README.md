@@ -1,16 +1,27 @@
-## Hi there 👋
+# VDIAS
 
-<!--
-**vdias/vdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure architect focused on Azure, Linux, automation and networking.
 
-Here are some ideas to get you started:
+## Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Azure architecture & infrastructure
+- Linux systems
+- PowerShell / Bash automation
+- Networking & security
+- OCI
+- Self-hosted infrastructure
+
+## Projects
+
+### ops
+Infrastructure scripts, automation and operational tooling.
+
+### laliga-dns-evade
+DNS response rewriting proxy for mitigating collateral IP blocking on shared CDN infrastructure.
+
+### geoip-country-lists
+Automated GeoIP country network lists.
+
+## Tech
+
+`Azure` `Linux` `PowerShell` `Bash` `Docker` `GitHub Actions` `OCI`
